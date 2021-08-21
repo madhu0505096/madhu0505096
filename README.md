@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a SQL case study  
+ 🔭 I’m currently working on a SQL case study  
 - 🌱 I’m currently learning MongoDB
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
