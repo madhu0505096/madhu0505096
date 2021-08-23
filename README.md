@@ -1,8 +1,7 @@
 ### Hi there 👋, Madhu Prasath
 #### Aspiring Data Analyst
-![Aspiring Data Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I have 3.3 years of experience in ETL testing at Accenture. My love to work on data pushed me to pursue a master's in Data Science, now I'm expecting to graduate by the month of September. 
+I have 3.3 years of experience in ETL testing at Accenture with extensive use of SQL. My love to work on data pushed me to pursue a master's in Data Science and now I'm expecting to graduate from University College Dublin by the month of September. 
 
 Skills: SQL / R/ Python/ MongoDB
 
