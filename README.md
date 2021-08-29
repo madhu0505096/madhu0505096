@@ -3,7 +3,7 @@
 
 I have 3.3 years of experience in ETL testing at Accenture with extensive use of SQL. My love to work on data pushed me to pursue a master's in Data Science and now I'm looking forward to graduate from University College Dublin by the month of September.
 
-If you are working on some 
+
 - 🔭 I’m currently working on NLP annotation 
 - 🌱 I’m currently learning MongoDB 
 - 📫 How to reach me: madhuprasath556@gmail.com 
