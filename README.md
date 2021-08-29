@@ -5,7 +5,7 @@ I have 3.3 years of experience in ETL testing at Accenture with extensive use of
 
 
 - 🔭 I’m currently working on NLP annotation 
-- 🌱 I’m currently learning MongoDB 
+- 🌱 I’m currently learning and implementing Deep Learning neural networks. 
 - 📫 How to reach me: madhuprasath556@gmail.com 
 
 Please get in touch if you want me to colloborate on any data projects. I'm always hungry to learn and grow! 
