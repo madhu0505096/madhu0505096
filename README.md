@@ -1,5 +1,5 @@
 
-# Breaking into Data
+# Hi there!
 
 I have 3.3 years of experience in ETL at Accenture with extensive use of SQL. My love to work on data pushed me to pursue a master's in Data Science.
 
